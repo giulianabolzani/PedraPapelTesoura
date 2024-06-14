@@ -13,5 +13,6 @@ Se você ganhar terá uma mensagem. Veja as regras:
 - 📜 Papel ganha de Pedra;
 - ✂️ Tesoura ganha de Papel.
 
-## Visualização
+## Visualização do Jogo
+
 https://github.com/giulianabolzani/PedraPapelTesoura/assets/79030727/a507a83f-2b2b-446d-ae2e-383c707066a5
